@@ -4,6 +4,10 @@ Web scraping, web harvesting, or web data extraction is data scraping used for e
 this is a web scraper using PHP DOM (Document Object Model), it can filter and grab certain texts, links, images, html code sources and display only that
 data in front of the user, and if the user wanted they can code it so that the PHP file will save the data to a Database such as MySQL or even a text file
 
+In this example i have a simple script scanning for URL links for html hypertext links <a & <img and display it instead of saving the data
+
+![Screenshot](https://github.com/jasnnh/WebScraperPHPDOM/blob/main/ss.PNG)
+
 the library file that is used to make this possible is:
 
 PHP Simple HTML DOM Parser & is licensed under MIT
